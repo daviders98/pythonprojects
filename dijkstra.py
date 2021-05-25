@@ -1,3 +1,4 @@
+#Custom dijkstra algorithm
 class Dijkstra:
     # Inicializador de variables en instancia de clase
     def __init__(self, etapas):
